@@ -1,6 +1,6 @@
 ## Coding Fundamentals
 
-- [ ] [How to Break Through the Cycle of Procrastination](https://rails.devcamp.com/development-soft-skills/development-skills/how-to-break-through-cycle-procrastination)
+- [x] [How to Break Through the Cycle of Procrastination](https://rails.devcamp.com/development-soft-skills/development-skills/how-to-break-through-cycle-procrastination)
 - [ ] [Introduction to Asynchronous Method Calls](https://rails.devcamp.com/development-soft-skills/development-skills/introduction-asynchronous-method-calls)
 - [ ] [Guide to APIs and an Introduction to RESTful Development](https://rails.devcamp.com/development-soft-skills/development-skills/guide-apis-introduction-restful-development)
 - [ ] [Guide to API Authentication](https://rails.devcamp.com/development-soft-skills/development-skills/guide-api-authentication)
@@ -8,19 +8,19 @@
 - [ ] [A Developer’s Guide to Content Delivery Networks (CDNs)](https://rails.devcamp.com/development-soft-skills/development-skills/developer-s-guide-content-delivery-networks-cdns)
 - [ ] [Guide to RESTful Routing](https://rails.devcamp.com/development-soft-skills/development-skills/guide-restful-routing)
 - [ ] [How Hexadecimals Work - A Developer's Guide](https://rails.devcamp.com/development-soft-skills/development-skills/how-hexadecimals-work-developer-s-guide)
-- [ ] [Dead Simple Object Oriented Programming Explanation](https://rails.devcamp.com/development-soft-skills/development-skills/dead-simple-object-oriented-programming-explanation)
+- [x] [Dead Simple Object Oriented Programming Explanation](https://rails.devcamp.com/development-soft-skills/development-skills/dead-simple-object-oriented-programming-explanation)
 - [ ] [How HTTP Works for Developers and APIs](https://rails.devcamp.com/development-soft-skills/development-skills/how-http-works-developers-apis)
 - [ ] [Is Writing Bad Code Immoral for Developers?](https://rails.devcamp.com/development-soft-skills/development-skills/is-writing-bad-code-immoral-developers)
 - [ ] [JSON Parsing Guide for API Development](https://rails.devcamp.com/development-soft-skills/development-skills/json-parsing-guide-api-development)
 - [ ] [FTP Tutorial – Understanding the File Transfer Protocol](https://rails.devcamp.com/development-soft-skills/development-skills/ftp-tutorial-understanding-file-transfer-protocol)
-- [ ] [Guide to the Model View Controller Architecture](https://rails.devcamp.com/development-soft-skills/development-skills/guide-to-the-model-view-controller-architecture)
+- [x] [Guide to the Model View Controller Architecture](https://rails.devcamp.com/development-soft-skills/development-skills/guide-to-the-model-view-controller-architecture)
 - [ ] [Monolithic vs Microservice Application Architectures](https://rails.devcamp.com/development-soft-skills/development-skills/monolithic-vs-microservice-application-architectures)
 - [ ] [Guide to NoSQL Databases for Developers](https://rails.devcamp.com/development-soft-skills/development-skills/guide-nosql-databases-developers)
 - [ ] [Object Oriented Inheritance Tutorial for Developers](https://rails.devcamp.com/development-soft-skills/development-skills/object-oriented-inheritance-tutorial-developers)
 - [ ] [Guide to Instantiation](https://rails.devcamp.com/development-soft-skills/development-skills/guide-to-instantiation)
 - [ ] [Guide to Polymorphism](https://rails.devcamp.com/development-soft-skills/development-skills/guide-polymorphism)
 - [ ] [The Case Against Code Comments](https://rails.devcamp.com/development-soft-skills/development-skills/the-case-against-code-comments)
-- [ ] [Guide to CSS Selectors for Web Developers and Designers](https://rails.devcamp.com/development-soft-skills/development-skills/guide-css-selectors-web-developers-designers)
+- [x] [Guide to CSS Selectors for Web Developers and Designers](https://rails.devcamp.com/development-soft-skills/development-skills/guide-css-selectors-web-developers-designers)
 - [ ] [Are Developers Born or Made? Debunking the Myth of Prodigies](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/developers-born-made-debunking-myth-prodigies)
 - [ ] [Can You Lose Your Coding Skills?](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/can-you-lose-your-coding-skills)
 - [ ] [Cramming vs Consistent Study and How to Build a Study Framework](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/cramming-vs-consistent-study-how-build-study-framework)
@@ -49,7 +49,7 @@
 
 ## HTML / CSS
 
-- [ ] [HTML/Basics](https://rails.devcamp.com/trails/html-css-coding-bootcamp)
+- [x] [HTML/Basics](https://rails.devcamp.com/trails/html-css-coding-bootcamp)
 - [ ] [Scss](https://rails.devcamp.com/trails/styling-scss)
 - [ ] [Flexbox - partly included in Scss course, but needs full module]()
 - [ ] [Grid]()
@@ -58,7 +58,7 @@
 
 ## JavaScript
 
-- [ ] [Introduction to JavaScript](https://rails.devcamp.com/trails/introduction-javascript-programming)
+- [x] [Introduction to JavaScript](https://rails.devcamp.com/trails/introduction-javascript-programming)
   - Basics
   - Conditionals
   - Functions
@@ -97,5 +97,11 @@
 
 
 ## UI/UX
+
 - [ ] [UX for Developers](https://rails.devcamp.com/trails/ux-developers)
 - [ ] [UI for Developers](https://rails.devcamp.com/trails/ui-developers)
+
+
+## Command Line
+
+- [x] [Introduction to the Command Line](https://rails.devcamp.com/dissecting-rails-5/environment-customization/deep-dive-command-line)
