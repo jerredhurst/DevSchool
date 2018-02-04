@@ -35,11 +35,11 @@
 - [ ] [How to Use Deep Work to Improve as a Developer](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/how-to-use-deep-work-improve-developer)
 - [ ] [Is Reading Important for Developers?](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/is-reading-important-developers)
 - [x] [Module 1 - Guide to Memorization](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/guide-memorization)
-- [ ] [Module 1 - Slowing Down to Learn How to Code Faster](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/slowing-down-learn-how-code-faster)
+- [x] [Module 1 - Slowing Down to Learn How to Code Faster](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/slowing-down-learn-how-code-faster)
 - [ ] [Mental Models for Learning How to Code and Improve as a Developer](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/mental-models-learning-how-code-improve-developer)
 - [ ] [Practical Ways to Use the Pomodoro Technique as a Developer](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/practical-ways-use-pomodoro-technique-developer)
 - [ ] [Development Study Tips: Reverse Note Taking](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/development-study-tips-reverse-note-taking)
-- [ ] [Module 1 - Task Switching Costs for Developers](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/task-switching-costs-developers)
+- [x] [Module 1 - Task Switching Costs for Developers](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/task-switching-costs-developers)
 - [ ] [The Power of Making Mistakes – Learning by Failing](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/the-power-making-mistakes-learning-by-failing)
 - [ ] [Learn How to Code from Scratch – A Practical Strategy](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/learn-how-to-code-scratch-practical-strategy)
 - [ ] [Developer Learning Curve – Why Learning How to Code Takes So Long?](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/developer-learning-curve-why-learning-how-to-code-takes-long)
@@ -64,7 +64,7 @@
   - Functions
   - Collections
   - Loops/Iterators
-- [ ] [Module 1 - ES6 JavaScript](https://rails.devcamp.com/trails/modern-javascript)
+- [x] [Module 1 - ES6 JavaScript](https://rails.devcamp.com/trails/modern-javascript)
   - ES6 Basics
   - Object Oriented Programming in JavaScript
   - Promises with APIs
@@ -98,7 +98,7 @@
 
 ## UI/UX
 
-- [ ] [Module 1 - UX for Developers](https://rails.devcamp.com/trails/ux-developers)
+- [x] [Module 1 - UX for Developers](https://rails.devcamp.com/trails/ux-developers)
 - [ ] [UI for Developers](https://rails.devcamp.com/trails/ui-developers)
 
 
