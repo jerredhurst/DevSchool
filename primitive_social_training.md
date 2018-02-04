@@ -1,8 +1,8 @@
 ## Coding Fundamentals
 
 - [x] [Prework - How to Break Through the Cycle of Procrastination](https://rails.devcamp.com/development-soft-skills/development-skills/how-to-break-through-cycle-procrastination)
-- [ ] [Module 2 - Introduction to Asynchronous Method Calls](https://rails.devcamp.com/development-soft-skills/development-skills/introduction-asynchronous-method-calls)
-- [ ] [Module 2 - Guide to APIs and an Introduction to RESTful Development](https://rails.devcamp.com/development-soft-skills/development-skills/guide-apis-introduction-restful-development)
+- [x] [Module 2 - Introduction to Asynchronous Method Calls](https://rails.devcamp.com/development-soft-skills/development-skills/introduction-asynchronous-method-calls)
+- [x] [Module 2 - Guide to APIs and an Introduction to RESTful Development](https://rails.devcamp.com/development-soft-skills/development-skills/guide-apis-introduction-restful-development)
 - [ ] [Module 2 - Guide to API Authentication](https://rails.devcamp.com/development-soft-skills/development-skills/guide-api-authentication)
 - [ ] [Module 2 - Best Practices vs Creativity as a Developer](https://rails.devcamp.com/development-soft-skills/development-skills/best-practices-vs-creativity-developer)
 - [ ] [A Developer’s Guide to Content Delivery Networks (CDNs)](https://rails.devcamp.com/development-soft-skills/development-skills/developer-s-guide-content-delivery-networks-cdns)
@@ -86,7 +86,7 @@
 
 ## Databases
 
-- [ ] [Module 2 - MySQL](https://rails.devcamp.com/trails/sql-bootcamp)
+- [x] [Module 2 - MySQL](https://rails.devcamp.com/trails/sql-bootcamp)
 - [ ] [MongoDB](https://rails.devcamp.com/trails/mongodb-developers)
 
 
