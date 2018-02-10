@@ -45,6 +45,7 @@
 - [ ] [Developer Learning Curve – Why Learning How to Code Takes So Long?](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/developer-learning-curve-why-learning-how-to-code-takes-long)
 - [ ] [Tips and Tricks to Building New Features as a Developer](https://rails.devcamp.com/development-soft-skills/career-development/tips-tricks-building-new-features-developer)
 - [ ] [Strategy for Taking Over a Legacy Application](https://rails.devcamp.com/development-soft-skills/freelancing/strategy-taking-over-legacy-application)
+- [ ] [Three Practical Approaches to Task Management ](https://rails.devcamp.com/development-soft-skills/learning-how-to-learn/three-practical-approaches-task-management)
 
 
 ## HTML / CSS
